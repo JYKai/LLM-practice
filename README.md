@@ -9,5 +9,5 @@ Quick Start Guide to Large Language Models, sinan ozdemir
 ## Progress
 | Name            | Contents                       |
 | :-------------- | ------------------------------ | 
-| [LLM이란?]()     |Study knowledge about LLM.      |
-| [의미 기반 검색]() |Semantic-based search using LLM.|
+| [LLM이란?](https://github.com/JYKai/LLM-practice/tree/main/01_LLM)     |Study knowledge about LLM.      |
+| [의미 기반 검색](https://github.com/JYKai/LLM-practice/tree/main/02_semantic_search) |Semantic-based search using LLM.|
