@@ -11,4 +11,4 @@ Quick Start Guide to Large Language Models, sinan ozdemir
 | :-------------- | ------------------------------ | 
 | [LLM이란?](https://github.com/JYKai/LLM-practice/tree/main/01_LLM)     |Study knowledge about LLM.      |
 | [의미 기반 검색](https://github.com/JYKai/LLM-practice/tree/main/02_semantic_search) |Semantic-based search using LLM.|
-| [프롬프트 엔지니어링]() |Effective prompt engineering.|
+| [프롬프트 엔지니어링](https://github.com/JYKai/LLM-practice/tree/main/03_prompt_engineering) |Effective prompt engineering.|
